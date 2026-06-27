@@ -100,11 +100,6 @@ url-shortener/
    npm run dev
    ```
 
-4. **Access the Application**
-
-   - Frontend: http://localhost:5173
-   - Backend API: http://localhost:5000
-
 ## API Endpoints
 
 ### Authentication
